@@ -19,3 +19,4 @@ build:
 
 # eval $(minikube docker-env)
 # skaffold dev
+# minikube tunnel
